@@ -33,9 +33,11 @@ You can then select the notebook you want to open, for example `day1_discovering
 In this repo, you will find a buch of helper functions in the sub-directory `Helper_Functions`. To load them into Colab run the following code in a cell :
 ```
 !mkdir /content/Helper_Functions/
-!wget -P /content/Helper_Functions/ https://raw.githubusercontent.com/EmeEmu/IBIO-Banyuls2023-Python/main/Helper_Functions/accessing_data.py
-!wget -P /content/Helper_Functions/ https://raw.githubusercontent.com/EmeEmu/IBIO-Banyuls2023-Python/main/Helper_Functions/hmm_plotters.py
-!wget -P /content/Helper_Functions/ https://raw.githubusercontent.com/EmeEmu/IBIO-Banyuls2023-Python/main/Helper_Functions/OrthoViewer.py
+!wget -P /content/Helper_Functions/ https://raw.githubusercontent.com/i-Bio-Summer-School-2023/Practicals-fishgroup/main/Helper_Functions/accessing_data.py
+!wget -P /content/Helper_Functions/ https://raw.githubusercontent.com/i-Bio-Summer-School-2023/Practicals-fishgroup/main/Helper_Functions/hmm_plotters.py
+!wget -P /content/Helper_Functions/ https://raw.githubusercontent.com/i-Bio-Summer-School-2023/Practicals-fishgroup/main/Helper_Functions/OrthoViewer.py
+!wget -P /content/Helper_Functions/ https://raw.githubusercontent.com/i-Bio-Summer-School-2023/Practicals-fishgroup/main/Helper_Functions/dimred_helper.py
+!wget -P /content/Helper_Functions/ https://raw.githubusercontent.com/i-Bio-Summer-School-2023/Practicals-fishgroup/main/Helper_Functions/plotting_functions.py
 ```
 
 ### Downloading Data
